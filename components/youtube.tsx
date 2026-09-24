@@ -8,22 +8,22 @@ import { Reveal } from "@/components/reveal"
 
 const videos = [
   {
-    title: "Build a Next.js 16 App from Scratch",
-    meta: "24:18 · 12K views",
-    thumbnail: "/youtube/nextjs-tutorial.png",
-    link: "https://www.youtube.com/@LearnCode-s2t"
+    title: "React JS The basics",
+    meta: "2:17 · 24 views",
+    thumbnail: "/youtube/ReactTutorial.webp",
+    link: "https://youtu.be/X4Q3sT3FVjg"
   },
   {
-    title: "Mastering React Server Components",
-    meta: "18:42 · 8.5K views",
+    title: "Stop Chasing Trends Choose the Right Tech Stack ",
+    meta: "3:12 · 16 views",
     thumbnail: "/youtube/react-server-components.png",
     link: "https://www.youtube.com/@LearnCode-s2t"
   },
   {
-    title: "Smooth Animations with Framer Motion",
-    meta: "15:30 · 21K views",
-    thumbnail: "/youtube/framer-motion.png",
-    link: "https://www.youtube.com/@LearnCode-s2t"
+    title: "I Just Discovered This JavaScript Framework…",
+    meta: "00:58 · 547 views",
+    thumbnail: "/youtube/ReactTutorial.webp",
+    link: "https://youtube.com/shorts/_ZioQ0casf0"
   },
 ]
 
