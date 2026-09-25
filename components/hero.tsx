@@ -51,7 +51,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.12, ease }}
           className="mt-3 text-2xl font-medium text-primary sm:text-3xl"
         >
-          Frontend Developer
+          Full Stack Developer
         </motion.p>
 
         <motion.p

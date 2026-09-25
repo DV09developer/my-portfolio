@@ -16,7 +16,7 @@ const videos = [
   {
     title: "Stop Chasing Trends Choose the Right Tech Stack ",
     meta: "3:12 · 16 views",
-    thumbnail: "/youtube/react-server-components.png",
+    thumbnail: "/youtube/image.png",
     link: "https://www.youtube.com/@LearnCode-s2t"
   },
   {

@@ -10,7 +10,7 @@ const projects = [
     title: "Expense Tracker",
     description:
       "A real-time expense analytics dashboard with interactive charts and filtering. Built for speed with server components and incremental data fetching.",
-    image: "/projects/analytics-dashboard.png",
+    image: "/projects/expense-tracker.png",
     tags: ["Express.js", "Next.js", "TypeScript", "Tailwind"],
     live: "https://expense-tracker-tau-virid-97.vercel.app/",
     repo: "https://github.com/DV09developer/ExpenseTracker",
@@ -19,7 +19,7 @@ const projects = [
     title: "forge-auth",
     description:
       "A lightweight authentication toolkit for Node.js: secure password hashing, JWT access/refresh tokens, and Express middleware — as small, independent building blocks. No database, no user model, no login routes, no opinions. You stay in control of your app; this just handles the parts that are easy to get wrong.",
-    image: "/projects/ecommerce-store.png",
+    image: "/projects/node.jpg",
     tags: ["Node.js", "JWT", "bcrypt"],
     live: "https://www.npmjs.com/package/forge-auth",
     repo: "https://github.com/DV09developer/forge-auth",
